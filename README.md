@@ -1,3 +1,6 @@
+
+<img width="1261" height="1007" alt="Logo01" src="https://github.com/user-attachments/assets/6d0b514c-d6e7-4b03-8d3f-4331bdfa0257" />
+
 # DifferentOS Alpha 0.1
 
 Ein minimales x86 Betriebssystem mit eigenem Bootloader, Kernel und BASIC-Interpreter.
