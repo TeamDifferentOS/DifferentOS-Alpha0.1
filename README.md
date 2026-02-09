@@ -5,6 +5,8 @@
 
 Ein minimales x86 Betriebssystem mit eigenem Bootloader, Kernel und BASIC-Interpreter.
 
+# Du willst mitmachen?
+dann bewirb dich hier: (https://discord.gg/pW5Ku44Y)
 ## Features
 
 - Eigener Bootloader der "DifferentOS Alpha 0.1" anzeigt
